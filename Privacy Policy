@@ -1,40 +1,32 @@
-# Privacy Policy
+Privacy Policy
+1. Introduction
+InfernoMusic Radio ("we", "our", "us") currently operates as a Discord bot designed exclusively for playing music in Discord voice channels. We are committed to protecting your privacy. This Privacy Policy outlines how we handle user data and information.
 
-## 1. Introduction
-InfernoMusic Radio ("we", "our", "us") operates as a Discord bot designed to play music in Discord voice channels. 
-We are committed to protecting your privacy. This Privacy Policy outlines how we handle user data and information.
+2. Data Collection
+We do not collect any personal information from users directly. The bot operates within the Discord platform and relies on the permissions granted to it by the server administrator. InfernoMusic Radio is currently exclusively available on our owned Discord server(s) and cannot be added to any other servers.
 
-## 2. Data Collection
-We do not collect any personal information from users directly. 
-The bot operates within the Discord platform and relies on the permissions granted to it by the server administrator. 
-The bot is exclusively available on our private Discord server and cannot be added to any other servers.
+2.1. Discord Data
+When InfernoMusic Radio is used on our server, Discord provides us with basic information such as the server's ID, the available channels, and user IDs interacting with the bot. This data is used solely to facilitate the bot's functionality and is not stored or used for any other purpose.
 
-### 2.1. Discord Data
-When InfernoMusic Radio is used on our server, Discord provides us with basic information such as the server's ID, 
-the channels available, and user IDs interacting with the bot. This data is used solely to facilitate the bot's functionality and is not stored or used for any other purpose.
-
-## 3. Data Usage
+3. Data Usage
 The data we receive from Discord is used exclusively to:
-- Connect to and play music in our server's voice channels.
-- Respond to commands issued by users in our server.
 
-## 4. Data Sharing
-We do not share, sell, or disclose any personal information or user data with third parties.
-All data processed by the bot is used strictly for its intended functionality within our Discord server.
+Connect to and play music in our server's voice channels.
+Respond to commands issued by users in our server.
+4. Data Sharing
+We do not share, sell, or disclose any personal information or user data with third parties. All data processed by the bot is used strictly for its intended functionality within our Discord server.
 
-## 5. Data Security
-We implement reasonable measures to ensure that data processed by InfernoMusic Radio is handled securely.
-However, please be aware that no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
+5. Data Security
+We implement reasonable measures to ensure that data processed by InfernoMusic Radio is handled securely. However, please be aware that no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
 
-## 6. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## 7. Your Consent
+7. Your Consent
 By using InfernoMusic Radio, you consent to this Privacy Policy.
 
-## 8. Contact Us
+8. Contact Us
 If you have any questions about this Privacy Policy, please contact us at InfernoFusionist@Gmail.com.
 
 ---
-Last updated: [30/06/2024]
+Last updated: [04/07/2024]
